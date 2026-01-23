@@ -1,0 +1,1 @@
+This was a simple lab experiment which still focuses on variable declaration, initialization, and reassign values to a valuable. Also I continued practicing using string concatenation using the conc method and the addition operand. 
