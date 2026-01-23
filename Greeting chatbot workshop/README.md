@@ -1,0 +1,1 @@
+In this workshop I will learn how to work with JavaScript fundamentals by building a greeting bot.
