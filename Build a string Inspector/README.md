@@ -1,0 +1,1 @@
+In this workshop, I will practice working with the includes() and slice() methods.
