@@ -1,0 +1,1 @@
+This workshop was to test the boolean conditions in the end i incorporated the if and else conditional statements. 
