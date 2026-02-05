@@ -1,0 +1,1 @@
+This workshop was to test out the function declaration and function invocation also i had to use if and else statements to better my understanding apart from that I used the Math () to find the square and the squareroot of a number. 
