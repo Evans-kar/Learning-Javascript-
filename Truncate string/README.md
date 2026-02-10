@@ -1,0 +1,1 @@
+This is a parctice assignment to test the string length and string slice functions where if the stated length of the string is reached then the string is truncated. I will also use the if else statement to state what should happen if the conditions are met. 
