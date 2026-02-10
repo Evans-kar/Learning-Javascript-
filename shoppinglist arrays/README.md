@@ -1,0 +1,1 @@
+This is a workshop on arrays tests how to add things to a shopping list using push, and unshift to add at the beginning of the array. I also use to remove the last items on a list as well as shift to remove the first item on a list. Arrays are order collections of values each identified by an index
